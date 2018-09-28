@@ -1,0 +1,17 @@
+{
+
+ "Records": [
+
+ {
+            "keywords": "cat",
+            "limit": 5000,
+	    "color": "gray",
+	    "format": "png",
+	    "output_directory": "/home/julian/Documents/Programming/GitHub/Machine Learning/cats_dogs_classifier/images",
+	    "image_directory": "cats",
+            "print_urls": true,
+	    "chromedriver": "/home/julian/Downloads/chromedriver_linux64/chromedriver"
+        }
+    ]
+}
+
